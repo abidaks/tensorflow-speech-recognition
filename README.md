@@ -36,7 +36,7 @@ I tested it with Raspbian GNU/Linux 8 (Jessie) and Python 3.4.2.
 run below command to install dependencies
 ```
 > git clone https://github.com/abidaks/tensorflow-speech-recognition
-> cd speech-recognition
+> cd tensorflow-speech-recognition
 > pip install requirements.txt
 ```
 
